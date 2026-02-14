@@ -1,4 +1,4 @@
-# হাট-খরচ Privacy Policy Setup Guide
+# হাত-খরচ Privacy Policy Setup Guide
 
 ## GitHub Pages এ Privacy Policy হোস্ট করার নির্দেশনা
 
@@ -150,3 +150,4 @@ Google Play Console এ যে ইমেইল দেবেন, সেটি অ
 - ✅ APK built (50.7MB)
 
 **APK Location:** `build\app\outputs\flutter-apk\app-release.apk`
+
